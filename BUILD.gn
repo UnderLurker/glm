@@ -1,0 +1,3 @@
+config("glm_config") {
+  include_dirs = [ "." ]
+}
